@@ -8,9 +8,6 @@
     <Filter Include="lib">
       <UniqueIdentifier>{32b2bcdf-2b6e-47a5-87f8-6fc524e5734e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="lib\x86">
-      <UniqueIdentifier>{adc8ea46-f042-4f9f-b40a-73dde912d4d0}</UniqueIdentifier>
-    </Filter>
     <Filter Include="lib\x86_vc">
       <UniqueIdentifier>{238f73e7-aa9d-4d74-8a1a-a1b52bc71cde}</UniqueIdentifier>
     </Filter>
@@ -97,30 +94,6 @@
     <ClCompile Include="..\..\lib\tokenize.c">
       <Filter>lib</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\lib\x86\mmxencfrag.c">
-      <Filter>lib\x86</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\lib\x86\mmxfdct.c">
-      <Filter>lib\x86</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\lib\x86\mmxfrag.c">
-      <Filter>lib\x86</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\lib\x86\mmxidct.c">
-      <Filter>lib\x86</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\lib\x86\mmxstate.c">
-      <Filter>lib\x86</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\lib\x86\sse2fdct.c">
-      <Filter>lib\x86</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\lib\x86\x86enc.c">
-      <Filter>lib\x86</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\lib\x86\x86state.c">
-      <Filter>lib\x86</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\lib\x86_vc\mmxencfrag.c">
       <Filter>lib\x86_vc</Filter>
     </ClCompile>
@@ -191,18 +164,6 @@
     </ClInclude>
     <ClInclude Include="..\..\lib\quant.h">
       <Filter>lib</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\lib\x86\mmxfrag.h">
-      <Filter>lib\x86</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\lib\x86\mmxloop.h">
-      <Filter>lib\x86</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\lib\x86\x86enc.h">
-      <Filter>lib\x86</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\lib\x86\x86int.h">
-      <Filter>lib\x86</Filter>
     </ClInclude>
     <ClInclude Include="..\..\lib\x86_vc\mmxfrag.h">
       <Filter>lib\x86_vc</Filter>

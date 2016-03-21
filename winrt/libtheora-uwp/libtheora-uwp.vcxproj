@@ -54,14 +54,6 @@
     <ClCompile Include="..\..\lib\rate.c" />
     <ClCompile Include="..\..\lib\state.c" />
     <ClCompile Include="..\..\lib\tokenize.c" />
-    <ClCompile Include="..\..\lib\x86\mmxencfrag.c" />
-    <ClCompile Include="..\..\lib\x86\mmxfdct.c" />
-    <ClCompile Include="..\..\lib\x86\mmxfrag.c" />
-    <ClCompile Include="..\..\lib\x86\mmxidct.c" />
-    <ClCompile Include="..\..\lib\x86\mmxstate.c" />
-    <ClCompile Include="..\..\lib\x86\sse2fdct.c" />
-    <ClCompile Include="..\..\lib\x86\x86enc.c" />
-    <ClCompile Include="..\..\lib\x86\x86state.c" />
     <ClCompile Include="..\..\lib\x86_vc\mmxencfrag.c" />
     <ClCompile Include="..\..\lib\x86_vc\mmxfdct.c" />
     <ClCompile Include="..\..\lib\x86_vc\mmxfrag.c" />
@@ -87,10 +79,6 @@
     <ClInclude Include="..\..\lib\modedec.h" />
     <ClInclude Include="..\..\lib\ocintrin.h" />
     <ClInclude Include="..\..\lib\quant.h" />
-    <ClInclude Include="..\..\lib\x86\mmxfrag.h" />
-    <ClInclude Include="..\..\lib\x86\mmxloop.h" />
-    <ClInclude Include="..\..\lib\x86\x86enc.h" />
-    <ClInclude Include="..\..\lib\x86\x86int.h" />
     <ClInclude Include="..\..\lib\x86_vc\mmxfrag.h" />
     <ClInclude Include="..\..\lib\x86_vc\mmxloop.h" />
     <ClInclude Include="..\..\lib\x86_vc\x86enc.h" />
